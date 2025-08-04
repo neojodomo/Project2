@@ -6,7 +6,7 @@
     }
 
     body {
-      background-image: url(/image/outerspace7.jpg);
+      background-image: url(image/outerspace7.jpg);
       color: #fff;
     }
 
@@ -183,4 +183,5 @@
     .planet p {
       margin-top: 0.5rem;
       font-weight: 500;
+
     }
